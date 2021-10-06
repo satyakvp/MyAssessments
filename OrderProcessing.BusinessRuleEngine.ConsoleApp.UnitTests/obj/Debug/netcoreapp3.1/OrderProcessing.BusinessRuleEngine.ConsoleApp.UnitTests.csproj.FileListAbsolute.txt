@@ -98,3 +98,9 @@ C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.Con
 C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests\obj\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests.dll
 C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests\obj\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests.pdb
 C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests\obj\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests.genruntimeconfig.cache
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests\bin\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.deps.json
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests\bin\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.runtimeconfig.json
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests\bin\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.runtimeconfig.dev.json
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests\bin\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.exe
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests\bin\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.dll
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests\bin\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.pdb

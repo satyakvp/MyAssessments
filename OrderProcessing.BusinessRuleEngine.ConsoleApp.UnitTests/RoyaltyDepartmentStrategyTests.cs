@@ -3,18 +3,18 @@ using Xunit;
 
 namespace OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests
 {
-    public class ShippingRuleStrategyTests
+    public class RoyaltyDepartmentStrategyTests
     { 
-        private readonly ShippingRuleStrategy strategy;
+        private readonly RoyaltyDepartmentStrategy strategy;
 
-        public ShippingRuleStrategyTests()
+        public RoyaltyDepartmentStrategyTests()
         {
-            this.strategy = new ShippingRuleStrategy();
+            this.strategy = new RoyaltyDepartmentStrategy();
         }
 
         [Theory]
-        [InlineData(PaymentType.Physical, true)]
-        [InlineData(PaymentType.Book, false)]
+        [InlineData(PaymentType.Book, true)]
+        [InlineData(PaymentType.Physical, false)]
         public void ShouldReturnTrueWhenCorrectProductTypeBeingPassedIn(PaymentType type, bool expected)
         {
             // Arrange

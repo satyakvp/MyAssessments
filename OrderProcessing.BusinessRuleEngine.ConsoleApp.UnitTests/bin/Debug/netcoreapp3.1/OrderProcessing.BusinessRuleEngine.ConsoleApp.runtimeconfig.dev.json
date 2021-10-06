@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nsiva\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nsiva\\.nuget\\packages"
+    ]
+  }
+}
