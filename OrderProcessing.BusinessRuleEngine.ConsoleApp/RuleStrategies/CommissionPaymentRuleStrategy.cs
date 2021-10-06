@@ -1,10 +1,10 @@
 ﻿namespace OrderProcessing.BusinessRuleEngine.ConsoleApp
 {
-    public class FreeVideoShippingRuleStrategy
+    public class CommissionPaymentRuleStrategy
     {
         public bool IsMatch(PaymentType type)
         {
-            return type == PaymentType.LearningToSkiVideo;
+            return type == PaymentType.PhysicalOrBook;
         }
     }
 }

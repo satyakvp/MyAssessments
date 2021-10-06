@@ -2,10 +2,12 @@
 {
     public enum PaymentType
     {
-       Physical,
-       Book,
+        Physical,
+        Book,
         ActivateMembership,
         UpgradeMembership,
         ActivateOrUpgradeMembership,
+        LearningToSkiVideo,
+        PhysicalOrBook,
     }
 }

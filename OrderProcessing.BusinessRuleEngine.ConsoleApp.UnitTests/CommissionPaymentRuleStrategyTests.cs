@@ -3,22 +3,21 @@ using Xunit;
 
 namespace OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests
 {
-    public class FreeVideoShippingRuleStrategyTests
+    public class CommissionPaymentRuleStrategyTests
     {
-        private FreeVideoShippingRuleStrategy strategy;
+        private CommissionPaymentRuleStrategy strategy;
 
-        public FreeVideoShippingRuleStrategyTests()
+        public CommissionPaymentRuleStrategyTests()
         {
-            this.strategy = new FreeVideoShippingRuleStrategy();
+            this.strategy = new CommissionPaymentRuleStrategy();
         }
 
         [Theory]
-        [InlineData(PaymentType.LearningToSkiVideo, true)]
-        [InlineData(PaymentType.UpgradeMembership, false)]
+        [InlineData(PaymentType.PhysicalOrBook, true)]
+        [InlineData(PaymentType.LearningToSkiVideo, false)]
         public void ShouldReturnTrueWhenCorrectProductTypeBeingPassedIn(PaymentType type, bool expected)
         {
             // Arrange
-
             //Act
             var isMatched = this.strategy.IsMatch(type);
 
