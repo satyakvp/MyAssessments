@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oZWGH/Dy9JIrYvgCV1s4VFY0h2K/NctwnuRnN8XP9mZvZY0kvfK7tVlq/upSOW9k/XYb3fGmBKbt+vc+HaAVxA==",
+  "dgSpecHash": "1uar+mk0R2hqITqrwzLHU9PJy21mouDteoFoh9IN2YQdaWYzyfgnY9R5woecvIHkkwb8p6Kv9r0fK3eBJV+CMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\nsiva\\source\\repos\\MyAssessments\\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests\\OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\nsiva\\.nuget\\packages\\fluentassertions\\6.1.0\\fluentassertions.6.1.0.nupkg.sha512",
     "C:\\Users\\nsiva\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\nsiva\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\nsiva\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\nsiva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\nsiva\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
     "C:\\Users\\nsiva\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "C:\\Users\\nsiva\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
