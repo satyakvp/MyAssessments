@@ -1,12 +1,23 @@
-﻿using System;
+﻿using OrderProcessing.BusinessRuleEngine.ConsoleApp.Factory;
 
 namespace OrderProcessing.BusinessRuleEngine.ConsoleApp
 {
     public class OrderProcessingRuleEngine
     {
-        public static void Main(string[] args)
+        private readonly BusinessRuleStrategyRegistry businessRuleStrategyRegistry;
+
+        public OrderProcessingRuleEngine(BusinessRuleStrategyRegistry businessRuleStrategyRegistry)
         {
-            Console.WriteLine("Hello World!");
+            this.businessRuleStrategyRegistry = businessRuleStrategyRegistry;
+        }
+
+        public string ProcessPayment(PaymentType productType)
+        {
+            var businessRuleStrategy = this.businessRuleStrategyRegistry.GetBusinessRuleStrategy(productType);
+
+            return businessRuleStrategy == null
+                ? throw new System.Exception("No Strategy found for the unknown product being passed in")
+                : businessRuleStrategy.HandleOrder();
         }
     }
 }
