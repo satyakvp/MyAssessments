@@ -9,5 +9,6 @@
         ActivateOrUpgradeMembership,
         LearningToSkiVideo,
         PhysicalOrBook,
+        Uknown,
     }
 }

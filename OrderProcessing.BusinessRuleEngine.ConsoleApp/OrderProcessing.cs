@@ -2,7 +2,7 @@
 
 namespace OrderProcessing.BusinessRuleEngine.ConsoleApp
 {
-    public class OrderProcessingRuleEngine
+    public class OrderProcessing
     {
         public static void Main(string[] args)
         {
