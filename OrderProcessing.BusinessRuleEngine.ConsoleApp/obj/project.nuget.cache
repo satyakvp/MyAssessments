@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6p++RYSVB7xefkHIYCZ1ovh4571SfW9O8IWScz+azJf0P5MCGRJedhTBmK9CUZ0/aTgv4Gh824Sy3xEq4YYSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nsiva\\source\\repos\\MyAssessments\\OrderProcessing.BusinessRuleEngine.ConsoleApp\\OrderProcessing.BusinessRuleEngine.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nsiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
