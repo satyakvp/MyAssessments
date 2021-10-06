@@ -3,18 +3,18 @@ using Xunit;
 
 namespace OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests
 {
-    public class UpgradeMembershipStrategyTests
+    public class ActivateOrUpgradeMembershipStrategyTests
     {
-        private UpgradeMembershipStrategy strategy;
+        private ActivateOrUpgradeMembershipStrategy strategy;
 
-        public UpgradeMembershipStrategyTests()
+        public ActivateOrUpgradeMembershipStrategyTests()
         {
-            this.strategy = new UpgradeMembershipStrategy();
+            this.strategy = new ActivateOrUpgradeMembershipStrategy();
         }
 
         [Theory]
-        [InlineData(PaymentType.UpgradeMembership, true)]
-        [InlineData(PaymentType.ActivateMembership, false)]
+        [InlineData(PaymentType.ActivateOrUpgradeMembership, true)]
+        [InlineData(PaymentType.Physical, false)]
         public void ShouldReturnTrueWhenCorrectProductTypeBeingPassedIn(PaymentType type, bool expected)
         {
             // Arrange

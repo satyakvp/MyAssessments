@@ -6,5 +6,6 @@
        Book,
         ActivateMembership,
         UpgradeMembership,
+        ActivateOrUpgradeMembership,
     }
 }
