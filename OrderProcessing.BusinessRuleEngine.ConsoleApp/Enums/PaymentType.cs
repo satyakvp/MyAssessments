@@ -4,5 +4,7 @@
     {
        Physical,
        Book,
+        ActivateMembership,
+        UpgradeMembership,
     }
 }
