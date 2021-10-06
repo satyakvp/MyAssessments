@@ -1,10 +1,10 @@
 ﻿namespace OrderProcessing.BusinessRuleEngine.ConsoleApp
 {
-    public class ActiviateMembershipStrategy
+    public class UpgradeMembershipStrategy
     {
         public bool IsMatch(PaymentType type)
         {
-            return type == PaymentType.ActivateMembership;
+            return type == PaymentType.UpgradeMembership;
         }
     }
 }
