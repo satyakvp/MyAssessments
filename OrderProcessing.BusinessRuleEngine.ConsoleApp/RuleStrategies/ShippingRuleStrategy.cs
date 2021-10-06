@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests
+﻿namespace OrderProcessing.BusinessRuleEngine.ConsoleApp
 {
     public class ShippingRuleStrategy
     {

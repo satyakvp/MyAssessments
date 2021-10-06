@@ -1,4 +1,4 @@
-﻿namespace OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests
+﻿namespace OrderProcessing.BusinessRuleEngine.ConsoleApp
 {
     public enum PaymentType
     {

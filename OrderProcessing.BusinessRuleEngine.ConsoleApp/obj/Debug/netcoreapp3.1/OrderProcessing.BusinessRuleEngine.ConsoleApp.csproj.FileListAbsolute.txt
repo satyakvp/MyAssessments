@@ -1,0 +1,13 @@
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\bin\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.exe
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\bin\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.deps.json
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\bin\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.runtimeconfig.json
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\bin\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.runtimeconfig.dev.json
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\bin\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.dll
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\bin\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.pdb
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\obj\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\obj\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\obj\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.AssemblyInfo.cs
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\obj\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\obj\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.dll
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\obj\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.pdb
+C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\obj\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.genruntimeconfig.cache

@@ -2,9 +2,9 @@
 
 namespace OrderProcessing.BusinessRuleEngine.ConsoleApp
 {
-    class Program
+    public class OrderProcessingRuleEngine
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
         }

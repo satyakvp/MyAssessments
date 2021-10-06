@@ -940,6 +940,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "OrderProcessing.BusinessRuleEngine.ConsoleApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/OrderProcessing.BusinessRuleEngine.ConsoleApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderProcessing.BusinessRuleEngine.ConsoleApp.dll": {}
+        }
       }
     }
   },
@@ -3590,12 +3600,18 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "OrderProcessing.BusinessRuleEngine.ConsoleApp/1.0.0": {
+      "type": "project",
+      "path": "../OrderProcessing.BusinessRuleEngine.ConsoleApp/OrderProcessing.BusinessRuleEngine.ConsoleApp.csproj",
+      "msbuildProject": "../OrderProcessing.BusinessRuleEngine.ConsoleApp/OrderProcessing.BusinessRuleEngine.ConsoleApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "FluentAssertions >= 6.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
+      "OrderProcessing.BusinessRuleEngine.ConsoleApp >= 1.0.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
@@ -3627,7 +3643,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nsiva\\source\\repos\\MyAssessments\\OrderProcessing.BusinessRuleEngine.ConsoleApp\\OrderProcessing.BusinessRuleEngine.ConsoleApp.csproj": {
+              "projectPath": "C:\\Users\\nsiva\\source\\repos\\MyAssessments\\OrderProcessing.BusinessRuleEngine.ConsoleApp\\OrderProcessing.BusinessRuleEngine.ConsoleApp.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
