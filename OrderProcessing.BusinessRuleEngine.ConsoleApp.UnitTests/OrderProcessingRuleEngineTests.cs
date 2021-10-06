@@ -12,7 +12,7 @@ namespace OrderProcessing.BusinessRuleEngine.ConsoleApp.UnitTests
     public class OrderProcessingRuleEngineTests
     {
         private BusinessRuleStrategyRegistry businessRuleStrategyRegistry;
-        private OrderProcessingEngine ruleEngine;
+        private OrderProcessingRuleEngine ruleEngine;
 
         public OrderProcessingRuleEngineTests()
         {

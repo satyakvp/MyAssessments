@@ -12,5 +12,4 @@ C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.Con
 C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\obj\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.genruntimeconfig.cache
 C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\obj\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.csproj.AssemblyReference.cache
 C:\Users\nsiva\source\repos\MyAssessments\OrderProcessing.BusinessRuleEngine.ConsoleApp\obj\Debug\netcoreapp3.1\OrderProcessing.BusinessRuleEngine.ConsoleApp.csproj.CopyComplete
